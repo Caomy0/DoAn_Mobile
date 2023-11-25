@@ -10,7 +10,7 @@ export const HomeIcon = ({ size = 24, color = 'black', style = {} }) => {
 };
 
 export const CategoryIcon = ({ size = 24, color = 'black', style = {} }) => {
-    return (
+     return (
         <MaterialIcons
             name="filter-none"
             size={size}
