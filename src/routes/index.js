@@ -1,5 +1,5 @@
 import {
-    CarRentalIcon,
+  CarRentalIcon,
     CategoryIcon,
     HomeIcon,
     MarkIcon,
