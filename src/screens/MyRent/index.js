@@ -9,7 +9,7 @@ import Search from '../../components/Search';
 import { CarContext } from '../../store/Context';
 
 function MyRent() {
-    const { rentCars } = useContext(CarContext);
+     const { rentCars } = useContext(CarContext);
 
     return (
         <View style={{ ...styles.container, backgroundColor: COLORS.white }}>
