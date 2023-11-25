@@ -6,7 +6,7 @@ function Button({ children, onPress, ...passProps }) {
         onPress,
     };
     return (
-        <TouchableOpacity onPress={onPress} {...props}>
+         <TouchableOpacity onPress={onPress} {...props}>
             {children}
         </TouchableOpacity>
     );
