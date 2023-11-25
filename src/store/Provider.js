@@ -8,7 +8,7 @@ function Provider({ children }) {
     const [brandLoading, setBrandLoading] = useState(false);
     const [cars, setCars] = useState([]);
     const [brands, setBrands] = useState([]);
-    const [savedCars, setSavedCars] = useState([]);
+     const [savedCars, setSavedCars] = useState([]);
     const [rentCars, setRentCars] = useState([]);
     const [darkTheme, setDarkTheme] = useState(false);
 
