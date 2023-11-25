@@ -9,7 +9,7 @@ import { useContext } from 'react';
 import { CarContext } from '../../store/Context';
 
 const CarItem = ({
-    car,
+     car,
     type2 = false,
     style = {},
     widthImage = '100%',
