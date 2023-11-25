@@ -1,6 +1,5 @@
 import { Image, Text, View } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
-
 import styles from './styles';
 import { MarkIcon, StarIcon } from '../Icons';
 import Button from '../Button';
