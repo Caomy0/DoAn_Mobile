@@ -17,6 +17,9 @@ function Login() {
     };
 
     return (
+
+
+        
         <View style={{ ...styles.container, backgroundColor: COLORS.white }}>
             <DefaultLayout
                 headerText="Rentacar"
