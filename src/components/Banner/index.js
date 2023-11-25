@@ -7,7 +7,7 @@ const Banner = ({ ...passProps }) => {
         ...passProps,
     };
     return (
-        <View style={styles.container} {...props}>
+         <View style={styles.container} {...props}>
             <SwiperFlatList
                 autoplay
                 autoplayDelay={2}
