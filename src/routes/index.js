@@ -5,7 +5,7 @@ import {
     MarkIcon,
 } from '../components/Icons';
 import {
-    HomeScreen,
+   HomeScreen,
     CategoriesScreen,
     SavedScreen,
     MyRentScreen,
