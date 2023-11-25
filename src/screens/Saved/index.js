@@ -2,7 +2,7 @@ import { FlatList, Text, View } from 'react-native';
 import { useContext, useState } from 'react';
 
 import styles from './styles';
-import DefaultLayout from '../../components/Layouts/DefaultLayout';
+import DefaultLayout  from '../../components/Layouts/DefaultLayout';
 import Search from '../../components/Search';
 import CarItem from '../../components/CarItem';
 import { CarContext } from '../../store/Context';
